@@ -1,4 +1,4 @@
-# Friend_Suggestion
+# Friend Suggestion
 Friend Suggestion Project using Graph Data Structure in C language
 
 ## About The Project
